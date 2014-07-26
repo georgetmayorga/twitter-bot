@@ -12,3 +12,5 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'twitter'
 
 gem 'dotenv-rails', :groups => [:development]
+
+gem 'rails_12factor', group: :production
