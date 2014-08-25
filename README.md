@@ -6,6 +6,7 @@ that in mind, I built a twitter-bot that retweets accounts I follow every hour
 on the :40. Here's the simple rake task that gets it done.
 
 Follow me [here](http://www.twitter.com/grgmyrg)
+
 <img
 src="https://raw.githubusercontent.com/georgetmayorga/twitter-bot/master/app/assets/images/twitter.png"
 width="500">
